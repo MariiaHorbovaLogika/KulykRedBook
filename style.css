@@ -35,3 +35,7 @@ p:hover{
     font-size: 30px;
 }
 
+
+p {
+    transition: font-size 2s;
+}
